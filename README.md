@@ -10,11 +10,9 @@ This Python project utilizes machine learning to create a movie recommender syst
 
 - **Movie Information:** Users can access detailed information about recommended movies, including summaries, ratings, and genres.
 
-## Demo
 
 
 
-## Installation
   ### Install Dependencies
     pip install -r requirements.txt
   ### Run the Streamlit app:
