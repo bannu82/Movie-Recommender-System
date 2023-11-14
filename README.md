@@ -12,7 +12,8 @@ This Python project utilizes machine learning to create a movie recommender syst
 
 
 
-
+## Installation
+  ### First run all Cells of "MoviesRecommendation.ipynb" file  
   ### Install Dependencies
     pip install -r requirements.txt
   ### Run the Streamlit app:
