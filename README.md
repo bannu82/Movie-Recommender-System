@@ -13,6 +13,11 @@ Site Link : https://movie-recommender-system-4dba.onrender.com
 
 - **Movie Information:** Users can access detailed information about recommended movies, including summaries, ratings, and genres.
 
+## Images
+
+![App Screenshot](img1.png)
+
+![App Screenshot](img2.png)
 
 
 ## Installation
