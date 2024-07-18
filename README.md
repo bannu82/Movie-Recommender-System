@@ -15,9 +15,9 @@ Site Link : https://movie-recommender-system-4dba.onrender.com
 
 ## Images
 
-![App Screenshot](img1.png)
+![App Screenshot](image/img1.png)
 
-![App Screenshot](img2.png)
+![App Screenshot](image/img2.png)
 
 
 ## Installation
