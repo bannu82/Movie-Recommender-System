@@ -3,7 +3,7 @@
 This Python project utilizes machine learning to create a movie recommender system. The recommendation engine suggests movies based on user preferences, enhancing the movie-watching experience.
 
 # Link
-Sit Link : https://movie-recommender-system-4dba.onrender.com
+Site Link : https://movie-recommender-system-4dba.onrender.com
 
 ## Features
 
